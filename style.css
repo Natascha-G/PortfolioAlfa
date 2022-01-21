@@ -1,0 +1,60 @@
+body{
+	margin:0;
+	padding:0;
+}
+
+nav{
+	height: 50px;
+	width:100%;
+	position: fixed;
+	display: flex;
+	justify-content: center;
+	align-items: center;  
+	margin: 0;
+	font-size: 1rem; 
+	background-color: #061f29;
+}
+
+ul {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	text-transform: uppercase;
+	list-style: none;
+}
+
+li a {
+	color: #cbdde4;
+	text-decoration: none;
+	margin:0 2.5rem 0 2.5rem;
+}
+
+#welkom{
+	Height:200px;
+	width:100%;
+	background-color: #0c0f11;
+
+}
+#overmij{
+	height:200px;
+	width:100%;
+	background-color: #cbdde4;
+}
+
+#portfolio{
+	height: 200px;
+	width: 100%;
+	background-color: #3e616e;
+}
+
+#contact{
+	height:200px;
+	width:100%;
+}
+
+footer{
+	height:50px;
+	width:100%;
+	background-color: #0c0f11;
+	;
+}
